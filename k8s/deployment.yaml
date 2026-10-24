@@ -5,7 +5,7 @@ metadata:
   labels:
     app: brain-tasks-app
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: brain-tasks-app
